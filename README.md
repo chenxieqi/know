@@ -1,5 +1,24 @@
 # know
 
+### 言語
+javascript
+
+### フレームワーク
+Vue3.0
+
+### プラグインなど
+
+
+### 期間
+制作中
+
+### 説明
+Quoraを参考にした自作ウェブサイトKnowのフロントエンド<br>
+
+実現した機能：<br>
+
+
+
 ## Project setup
 ```
 npm install
