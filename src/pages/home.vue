@@ -1,16 +1,13 @@
 <template>
-  <div>app</div>
+  <div>home</div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-  components: {
-    
-  }
+
 }
 </script>
 
 <style>
+
 </style>

@@ -1,4 +1,5 @@
-// module.exports = {
+ module.exports = {
+  publicPath: process.env.NODE_ENV === "production" ? "/know/" : "",
 //   devServer:{
 //     host:'localhost',
 //     port: 8080,
@@ -16,4 +17,4 @@
 //       config.plugin.delete('prefetch')
 //     }
 //   }
-// }
+ }
