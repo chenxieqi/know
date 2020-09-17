@@ -1,7 +1,7 @@
 # know
 
 ### 言語
-javascript
+Typescript
 
 ### フレームワーク
 Vue3.0
