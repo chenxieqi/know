@@ -1,5 +1,5 @@
 <template>
-  <div class="question">question</div>
+  <div class="topic">topic</div>
 </template>
 
 <script>

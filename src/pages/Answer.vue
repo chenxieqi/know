@@ -1,5 +1,5 @@
 <template>
-  <div class="question">question</div>
+  <div class="answer">answer page</div>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 export default{
-  saveUserName(state,username){
+  saveUserName(state:any,username:string){
     state.username = username
   }
 }
